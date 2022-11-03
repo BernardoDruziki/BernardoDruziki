@@ -11,8 +11,7 @@ SYX💻
   <div style="display: inline_block"><br>
   <img align="center" alt="Ber-Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 
-                                                                                                                                                                                                                                                                                                         
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 </div>
                                                                                                     
                                                                                                     
