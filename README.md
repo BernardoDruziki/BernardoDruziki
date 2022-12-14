@@ -1,4 +1,4 @@
-# BernardoDruziki
+# Hi, i'm Bernardo, backend developer for syx💻
 
 SYX💻
 
